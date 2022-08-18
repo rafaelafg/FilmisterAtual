@@ -228,6 +228,9 @@ footer p{
 footer div{
     height: min-content;
 }
+.itemlanc img{
+    width: 100%;
+}
 @media (min-width: 749px) and (max-width: 1024px){
     nav li{
         padding-left: 3rem;
